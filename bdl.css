@@ -1,0 +1,16 @@
+body{
+background:rgb(223, 13, 135);
+
+
+}
+
+.log{background:rgb(190, 64, 14); width: 400px; padding:40px; overflow: hidden;margin:auto; margin-top:100px;box-shadow: 2px 3px 4px 2px black  ;   }
+
+.log input {width: 90%; display: block;padding: 20px  ;background:#f2f2f2; outline: none; border:none; font-size:20px}
+.in{background:linear-gradient(#00b242,black)! important ; color:wheat; width: 100%!important;}
+.in :hover{cursor: pointer;background:linear-gradient(black,#00b242) !important;}
+.rej span{color:#2aeb19;    }
+.rej a {color:#35c;}
+.rej{text-align: center; font-size:20px;}
+.log h2{text-align:center;margin-bottom:20px ;font-family:arial black;  text-transform: uppercase;  text-shadow: 3px 5px 3px rgb(240, 15, 83); font-size: 30px;}
+.log :hover{transform: scale(1.15);}
